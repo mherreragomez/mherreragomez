@@ -5,7 +5,7 @@
 - 🌱 I’m currently working on spatial panel data and empirical applications on urban/regional economic, health economic, economic growth using parametric and nonparametric tools.   
 - 👯 I’m looking to collaborate on projects that combine spatial and big data, econometrics and machine learning.
 
-- You can view my website at https://sites.google.com/site/mherreragomez
+- :globe_with_meridians: You can view my website at https://sites.google.com/site/mherreragomez
 - 📫 How to reach me: **mherreragomez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
